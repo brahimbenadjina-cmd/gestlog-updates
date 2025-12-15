@@ -2,10 +2,11 @@
 <UpdateInfo>
   <Version>1.1.0</Version>
   <ReleaseDate>2025-12-15</ReleaseDate>
-  <DownloadUrl>https://raw.githubusercontent.com/brahimbenadjina-cmd/gestlog-updates/main/v1.1.0/GestLog_Update_v1.1.0.zip</DownloadUrl>
+  <DownloadUrl>https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/v1.1.0/GestLog_Update_v1.1.0.zip</DownloadUrl>
   <ReleaseNotes>Initial update system implementation</ReleaseNotes>
   <FileSize>117944016</FileSize>
   <Checksum>2c9338343f47f7d0fea59f95664b4d6f</Checksum>
   <MinVersion>1.0.0</MinVersion>
 </UpdateInfo>
+
 
