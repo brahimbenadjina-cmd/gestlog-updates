@@ -6,9 +6,8 @@
     <ReleaseNotes>
 Initial update system
     </ReleaseNotes>
-    <FileSize>112975875</FileSize>
-    <Checksum>f7c41a95aeaedb55a5ceb1fb0b31fb13</Checksum>
+    <FileSize>112975881</FileSize>
+    <Checksum>bdb0b75970384a7b1fae3054babba8d6</Checksum>
     <MinVersion>1.0.0</MinVersion>
     <Architecture>AnyCPU</Architecture>
 </UpdateInfo>
-
