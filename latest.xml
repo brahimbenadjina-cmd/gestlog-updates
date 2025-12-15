@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UpdateInfo>
-    <Version>3.1.0</Version>
-    <ReleaseDate>2025-12-15</ReleaseDate>
-    <DownloadUrl>https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/3.1.0/GestLog_Update_v3.1.0.zip</DownloadUrl>
+    <Version>3.3.0</Version>
+    <ReleaseDate>2025-12-16</ReleaseDate>
+    <DownloadUrl>https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/v3.3.0/GestLog_Update_v3.3.0.zip</DownloadUrl>
     <ReleaseNotes>
 Initial update system
     </ReleaseNotes>
-    <FileSize>112976314</FileSize>
-    <Checksum>0e3060e64b627bdc2944b5e14c649acd</Checksum>
+    <FileSize>112963925</FileSize>
+    <Checksum>5184595a0b758c278337aaf18d657bc4</Checksum>
     <MinVersion>1.0.0</MinVersion>
-    <Architecture>AnyCPU</Architecture>
+    <RequiresRestart>true</RequiresRestart>
+    <Files>
+        Application\GestLog.exe
+        Application\GestLogUpdater.exe
+        Application\version.txt
+    </Files>
 </UpdateInfo>
-
-
