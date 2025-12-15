@@ -2,7 +2,7 @@
 <UpdateInfo>
     <Version>3.1.0</Version>
     <ReleaseDate>2025-12-15</ReleaseDate>
-    <DownloadUrl>https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/2.0.0/GestLog_Update_v2.1.0.zip</DownloadUrl>
+    <DownloadUrl>https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/3.1.0/GestLog_Update_v3.1.0.zip</DownloadUrl>
     <ReleaseNotes>
 Initial update system
     </ReleaseNotes>
@@ -11,3 +11,4 @@ Initial update system
     <MinVersion>1.0.0</MinVersion>
     <Architecture>AnyCPU</Architecture>
 </UpdateInfo>
+
