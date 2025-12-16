@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UpdateInfo>
-    <Version>4.3.0</Version>
+    <Version>5.3.0</Version>
     <ReleaseDate>2025-12-16</ReleaseDate>
-    <DownloadUrl>https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/4.3.0/GestLog_Update_v4.3.0.zip</DownloadUrl>
+    <DownloadUrl>https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/5.3.0/GestLog_Update_v5.3.0.zip</DownloadUrl>
     <ReleaseNotes>
 Initial update system
     </ReleaseNotes>
-    <FileSize>112964732</FileSize>
-    <Checksum>d81249b6b3d9916d7162f97c3f1a8830</Checksum>
+    <FileSize>112964881</FileSize>
+    <Checksum>6cdff5a566632bdebebb6058bbf09e23</Checksum>
     <MinVersion>1.0.0</MinVersion>
     <RequiresRestart>true</RequiresRestart>
     <Files>
