@@ -6,19 +6,13 @@
     <ReleaseNotes>
 Initial update system
     </ReleaseNotes>
-    <FileSize>112963925</FileSize>
-    <Checksum>5184595a0b758c278337aaf18d657bc4</Checksum>
+    <FileSize>112963839</FileSize>
+    <Checksum>d9955abe95e7957ad482ac328c280b27</Checksum>
     <MinVersion>1.0.0</MinVersion>
-  
+    <RequiresRestart>true</RequiresRestart>
+    <Files>
+        Application\GestLog.exe
+        Application\GestLogUpdater.exe
+        Application\version.txt
+    </Files>
 </UpdateInfo>
-
-
-
- 
-   
-
-    
-  
-
-
-
