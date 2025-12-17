@@ -2,11 +2,11 @@
 
 [Update]
 Name = GestLog
-ProductVersion = 7.2.0
-URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/7.2.0/GestLogMAJ.msi
+ProductVersion = 8.2.0
+URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/8.2.0/GestLogMAJ.msi
 Size = 117453824
-SHA256 = 03130A158C7FE2959551A3C91D504E47D1013E5524657B45FDA28DB1891F773D
-MD5 = fce8a0903df5e93f8d7ada808254d8c1
+SHA256 = BFBE34B375BA44ED367A1D8E063F45534E0DEEA0CC3E4F4F09669FAE7B8277FA
+MD5 = 15602e04c682729bbfe591574fea2aba
 ServerFileName = GestLogMAJ.msi
 RegistryKey = HKUD\Software\3bs\GestLog\Version
-Version = 7.2.0
+Version = 8.2.0
