@@ -2,11 +2,11 @@
 
 [Update]
 Name = GestLog
-ProductVersion = 3.2.0
-URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/3.2.0/GestLogMAJ.msi
-Size = 116946944
-SHA256 = EA147FE2937A3BC0E578B30189BBB08A9A70FE05D3047698312BE91D74E2262B
-MD5 = 269e2ba61cdfa6b0958931dbdc512865
+ProductVersion = 3.3.0
+URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/3.3.0/GestLogMAJ.msi
+Size = 116875776
+SHA256 = 16885DEBE20D5B3C7AC14DC6E26260BEB8DF5192245A23CF7B4FA44F04F05EF1
+MD5 = 44ca8f630532da10b680b308d6bcab3f
 ServerFileName = GestLogMAJ.msi
 RegistryKey = HKUD\Software\3bs\GestLog\Version
-Version = 3.2.0
+Version = 3.3.0
