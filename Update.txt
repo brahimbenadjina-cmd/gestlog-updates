@@ -8,5 +8,6 @@ Size = 117453824
 SHA256 = BFBE34B375BA44ED367A1D8E063F45534E0DEEA0CC3E4F4F09669FAE7B8277FA
 MD5 = 15602e04c682729bbfe591574fea2aba
 ServerFileName = GestLogMAJ.msi
-RegistryKey = HKUD\Software\3bs\GestLog\Version
+RegistryKey = HKCU\Software\3bs\GestLog\Version
 Version = 8.2.0
+
