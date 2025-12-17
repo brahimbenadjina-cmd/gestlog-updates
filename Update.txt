@@ -2,11 +2,13 @@
 
 [Update]
 Name = GestLog
-ProductVersion = 4.3.0
-URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/4.3.0/GestLogMAJ.msi
-Size = 116896256
-SHA256 = A4D521AACEBD6168DE9E379E47C95ED3BFEE2EB0432FA68B40E82077ED7151EC
-MD5 = db660739e92068464fd947e4a2c6e451
+ProductVersion = 5.1.0
+URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/5.1.0/GestLogMAJ.msi
+Size = 116894720
+SHA256 = BE0672D5FFA85C252EBE658853A534AA1AC89F72A99969159820EA31279AEAA3
+MD5 = ac7c6415e68d20655c6e76749428b57c
 ServerFileName = GestLogMAJ.msi
+Flags = NoCache
 RegistryKey = HKUD\Software\3bs\GestLog\Version
-Version = 4.3.0
+Version = 5.1.0
+AutoCloseApplication = [APPDIR]YourApplication.exe|;;AlwaysRestart
