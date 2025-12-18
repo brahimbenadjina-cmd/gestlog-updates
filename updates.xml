@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<updates>
-  <update>
-    <version>1.0.1.0</version>
-    <url>http://your-server.com/updates/GestLog_1.0.1.0.exe</url>
-    <description>Fixed bug in license validation. Improved performance.</description>
-    <releaseDate>2024-01-15</releaseDate>
-    <mandatory>false</mandatory>
-  </update>
-</updates>
+;aiu;
+
+[Update]
+Name = GestLog
+ProductVersion = 1.1.0.0
+URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/1.1.0.0/Updater.msi
+Size = 1280000
+SHA256 = 2188108542F585C9B71A56D631E1C6859A831E0FB0A56684003B95658FDABEC4
+MD5 = f98b022247a9de68756a9954cfbce7a4
+ServerFileName = Updater.msi
+RegistryKey = HKUD\Software\3bs\GestLog\Version
+Version = 1.1.0.0
