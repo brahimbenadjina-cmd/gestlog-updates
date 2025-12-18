@@ -2,11 +2,11 @@
 
 [Update]
 Name = GestLog
-ProductVersion = 1.1.0.0
-URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/1.1.0.0/Updater.exe
+ProductVersion = 1.2.0.0
+URL = https://raw.githubusercontent.com/brahimbenadjina-cmd/gestlog-updates/refs/heads/main/updater.exe
 Size = 3850654
-SHA256 = E6A29C4F436539ABA75D3DB548211B24855E3825F65BA8B457447C9589E4AC96
-MD5 = 03a3efb1a48657e049516777eebbc675
+SHA256 = 095656C2F116E063BBAFDB9A6A8603A1D3254F37CC00FE57FAD3FCF2358911DC
+MD5 = ac4edc39779c8f565bf4354de12cf5a3
 ServerFileName = Updater.exe
 RegistryKey = HKUD\Software\3bs\GestLog\Version
-Version = 1.1.0.0
+Version = 1.2.0.0
