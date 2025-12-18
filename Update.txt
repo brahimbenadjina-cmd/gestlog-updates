@@ -2,11 +2,11 @@
 
 [Update]
 Name = GestLog
-ProductVersion = 9.2.0.0
+ProductVersion = 9.3.0.0
 URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/9.2.0/updater.exe
-Size = 120292366
-SHA256 = 462630F845F505D4129EBD1984433ECB339C5AFC89ED366CBD2F6C13CB2A342B
-MD5 = 1d409dfd3005ba261543249c90a23e22
-ServerFileName = GestLogMAJ.exe
+Size = 1266688
+SHA256 = 334057A345CD9CAD0D86DD8BF2668990F71D92BD9226C8C21F68802C60F7459F
+MD5 = 386a1efc3b25a57bb312a2bf8682dc19
+ServerFileName = updater.exe
 RegistryKey = HKUD\Software\3bs\GestLog\Version
-Version = 9.2.0.0
+Version = 9.3.0.0
