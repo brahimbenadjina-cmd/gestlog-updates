@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <version>1.0.1.0</version>
+    <url>http://your-server.com/updates/GestLog_1.0.1.0.exe</url>
+    <description>Fixed bug in license validation. Improved performance.</description>
+    <releaseDate>2024-01-15</releaseDate>
+    <mandatory>false</mandatory>
+  </update>
+</updates>
