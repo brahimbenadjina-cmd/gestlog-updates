@@ -3,7 +3,7 @@
 [Update]
 Name = GestLog
 ProductVersion = 9.2.0.0
-URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/9.2.0/GestLogMAJ.exe
+URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/9.2.0/updater.exe
 Size = 120292366
 SHA256 = 462630F845F505D4129EBD1984433ECB339C5AFC89ED366CBD2F6C13CB2A342B
 MD5 = 1d409dfd3005ba261543249c90a23e22
