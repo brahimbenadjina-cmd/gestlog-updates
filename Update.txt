@@ -1,0 +1,12 @@
+;aiu;
+
+[Update]
+Name = GestLog
+ProductVersion = 7.0.0
+URL = https://github.com/brahimbenadjina-cmd/gestlog-updates/releases/download/7.0.0/GLMAJ.msi
+Size = 117158912
+SHA256 = 5FF14C46CCAA2F2B2469E8EEA22DF0E8F600C3AE77060804894A4915CE911C35
+MD5 = 3998539d633548b1eb4caf36f2a5f175
+ServerFileName = GLMAJ.msi
+RegistryKey = HKUD\Software\3bs\GestLog\Version
+Version = 7.0.0
